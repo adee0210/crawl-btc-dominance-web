@@ -9,6 +9,8 @@ from urllib3.util.retry import Retry
 
 from pymongo import WriteConcern
 
+#
+
 sys.path.append(os.path.abspath(os.path.join(os.path.dirname(__file__), "..", "..")))
 from src.configs.config_variable import DATA_CRAWL_CONFIG, MONGO_CONFIG
 from src.log.logger_setup import LoggerSetup
