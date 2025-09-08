@@ -1,0 +1,11 @@
+pymongo
+schedule
+requests
+websocket-client
+schedule
+python-dotenv
+croniter
+logging
+pandas
+tradingview-ta
+pytz
